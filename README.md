@@ -31,7 +31,7 @@ problem, apply the skills that you learned before, and be proficient in:
 The project is guided and split into several tasks to be easy to tackle
 and each task is done in a seperate notebook :
 
-*  Task 0
+*  [Task 0]{https://github.com/mustaphaamine1/Analyzing-The-Casablanca-Stock-Exchange/blob/master/notebooks/task0.ipynb}
 *  Task 1
 *  Task 2
 *  Task 3
