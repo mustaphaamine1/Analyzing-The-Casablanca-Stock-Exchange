@@ -31,12 +31,12 @@ problem, apply the skills that you learned before, and be proficient in:
 The project is guided and split into several tasks to be easy to tackle
 and each task is done in a seperate notebook :
 
-*  [Task 0]{https://github.com/mustaphaamine1/Analyzing-The-Casablanca-Stock-Exchange/blob/master/notebooks/task0.ipynb}
-*  Task 1
-*  Task 2
-*  Task 3
-*  Task 4
-*  Task 5
-*  Task 6
-*  Task 7
-*  Task8
+*  [Task 0](https://github.com/mustaphaamine1/Analyzing-The-Casablanca-Stock-Exchange/blob/master/notebooks/task0.ipynb)
+*  [Task 1](https://github.com/mustaphaamine1/Analyzing-The-Casablanca-Stock-Exchange/blob/master/notebooks/task1.ipynb)
+*  [Task 2](https://github.com/mustaphaamine1/Analyzing-The-Casablanca-Stock-Exchange/blob/master/notebooks/task2.ipynb)
+*  [Task 3](https://github.com/mustaphaamine1/Analyzing-The-Casablanca-Stock-Exchange/blob/master/notebooks/task3.ipynb)
+*  [Task 4](https://github.com/mustaphaamine1/Analyzing-The-Casablanca-Stock-Exchange/blob/master/notebooks/task4.ipynb)
+*  [Task 5](https://github.com/mustaphaamine1/Analyzing-The-Casablanca-Stock-Exchange/blob/master/notebooks/task5.ipynb)
+*  [Task 6](https://github.com/mustaphaamine1/Analyzing-The-Casablanca-Stock-Exchange/blob/master/notebooks/task6.ipynb)
+*  [Task 7](https://github.com/mustaphaamine1/Analyzing-The-Casablanca-Stock-Exchange/blob/master/notebooks/task7.ipynb)
+*  [Task8](https://github.com/mustaphaamine1/Analyzing-The-Casablanca-Stock-Exchange/blob/master/notebooks/task8.ipynb)
